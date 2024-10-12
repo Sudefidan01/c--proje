@@ -1,0 +1,7 @@
+C:\Users\local.egitmen\Desktop\Haftaİçi Sabah 301\GirisDersi\GirisDersi\bin\Debug\GirisDersi.exe.config
+C:\Users\local.egitmen\Desktop\Haftaİçi Sabah 301\GirisDersi\GirisDersi\bin\Debug\GirisDersi.exe
+C:\Users\local.egitmen\Desktop\Haftaİçi Sabah 301\GirisDersi\GirisDersi\bin\Debug\GirisDersi.pdb
+C:\Users\local.egitmen\Desktop\Haftaİçi Sabah 301\GirisDersi\GirisDersi\obj\Debug\GirisDersi.csprojAssemblyReference.cache
+C:\Users\local.egitmen\Desktop\Haftaİçi Sabah 301\GirisDersi\GirisDersi\obj\Debug\GirisDersi.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\Desktop\Haftaİçi Sabah 301\GirisDersi\GirisDersi\obj\Debug\GirisDersi.exe
+C:\Users\local.egitmen\Desktop\Haftaİçi Sabah 301\GirisDersi\GirisDersi\obj\Debug\GirisDersi.pdb
